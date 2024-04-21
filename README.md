@@ -1,2 +1,2 @@
-# Perfect_Movie_Generator
-The Perfect Movie Generator works just as it sounds, it selects a movie for the user to watch based on what genre they want to watch. It grabs the top movies by genre from the Internet Movie Database, or imdb, and randomly selects from the list. 
+# Dan's Movie Recommender 
+Can't decide what movie to watch? Have bad taste in movies? No worries! Dan's movie recomender will solve all your problems. This program takes a movie genre from the user and selects a random movie from that genre. All of the movies are Dan's (A snobby movie connoisseur) personal favorite movies. You'll never find yourself watching trailers for half the night ever again! 
